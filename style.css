@@ -217,11 +217,11 @@ section {
 
 /* ===== ABOUT ===== */
 .about-text {
-    font-size: 1.1rem;
+    font-size: .8rem;
     color: var(--text-secondary);
     max-width: 780px;
     margin: 0 auto;
-    text-align: center;
+    text-align: right;
 }
 
 .about-details {
