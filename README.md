@@ -20,16 +20,16 @@ An interactive personal portfolio website featuring:
 - **Certificates** and achievements
 - **Contact** information via multiple platforms
 
-## ✨ Features
+##  Features
 
-- 🎨 Modern and attractive design
-- 🌙 Dark/Light mode toggle
-- 📱 Fully responsive on all devices
-- 🧩 Smooth scroll animations
-- 🔗 Direct links to projects and social media
-- 📄 CV download functionality
+- Modern and attractive design
+-  Dark/Light mode toggle
+-  Fully responsive on all devices
+-  Smooth scroll animations
+-  Direct links to projects and social media
+-  CV download functionality
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 - **HTML5** - Website structure
@@ -40,7 +40,7 @@ An interactive personal portfolio website featuring:
 - **Font Awesome** - Icons
 - **Google Fonts** - Arabic typography
 
-## 📁 File Structure
+##  File Structure
 
 ```
 Anas-Profile/
@@ -57,12 +57,13 @@ Anas-Profile/
 
 | Project | Technologies | Status |
 |---------|--------------|--------|
-| Heart Disease Prediction System | Python, Scikit-learn, Pandas | ✅ Completed |
-| Cyber Attack Classification | Python, Pandas, Matplotlib | ✅ Completed |
-| Air Pollution (PM2.5) Prediction | Python, Random Forest | ✅ Completed |
-| Dental Clinic Booking System | C++ | ✅ Completed |
-| Expense Management System | Python, Pandas | ✅ Completed |
-| Task Management System | HTML, CSS, JavaScript | ✅ Completed |
+| Heart Disease Prediction System | Python, Scikit-learn, Pandas |  Completed |
+| Cyber Attack Classification | Python, Pandas, Matplotlib | 
+Completed |
+| Air Pollution (PM2.5) Prediction | Python, Random Forest | Completed |
+| Dental Clinic Booking System | C++ |  Completed |
+| Expense Management System | Python, Pandas |  Completed |
+| Task Management System | HTML, CSS, JavaScript | Completed |
 
 ## 📞 Contact
 
@@ -72,11 +73,11 @@ Anas-Profile/
 - **Telegram**: [@Anas_Alsanwy](https://t.me/Anas_Alsanwy)
 - **Messenger**: [Anas Mohammed](https://m.me/ans.mhmd.alsnwy)
 
-## 📝 License
+##  License
 
 © 2026 All Rights Reserved - Anas Mohammed
 
-## 🤝 Contributing
+##  Contributing
 
 You can contribute to improving the website by:
 1. Fork the repository
@@ -85,7 +86,7 @@ You can contribute to improving the website by:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📊 Skills Overview
+## Skills Overview
 
 ### Programming Languages
 - Python (90%)
